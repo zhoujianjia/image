@@ -1,0 +1,7 @@
+自己拍的图片：guidao2.jpg
+	ssd 不识别轨道线：fps_ave= 8.08  1M：49.47
+		识别轨道线：fps_ave= 0.1     1M：报错
+	yolo不识别轨道线：fps =   	     1M：4.1 (2~8)
+		识别轨道线：fps_ave=         1M：报错
+GPU	型号	NVIDIA TITAN V
+	大小	12G
